@@ -1,0 +1,12 @@
+.textmakercontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    border-style: groove;
+    margin: 20px;
+}
+.textmakerline{
+
+}

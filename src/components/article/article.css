@@ -1,0 +1,39 @@
+.articlecontainer{
+    color: rgb(0, 0, 0);
+    align-items: center;
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-style: groove;
+    margin: 100px;
+    width: 400px;
+    max-width: 100%;
+    margin-bottom: 200px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px 1px black;
+}
+.articlecovercontainer{
+    margin: 10px;
+}
+.articlecover{
+    max-width: 100%;
+}
+.articledescription{
+}
+.articlevideocontainer{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.articlevideo{
+    max-width: 80%;
+}
+.articlegitlink{
+    margin: 10px;
+}
+.articlegitlink a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
