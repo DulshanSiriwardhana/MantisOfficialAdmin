@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/MantisOfficialAdmin/static/css/main.6b4b069c.css",
-    "main.js": "/MantisOfficialAdmin/static/js/main.94fcae12.js",
+    "main.js": "/MantisOfficialAdmin/static/js/main.122423f4.js",
     "reactPlayerPreview.js": "/MantisOfficialAdmin/static/js/reactPlayerPreview.e73e22fb.chunk.js",
     "static/js/453.1c13788b.chunk.js": "/MantisOfficialAdmin/static/js/453.1c13788b.chunk.js",
     "static/media/logo.svg": "/MantisOfficialAdmin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MantisOfficialAdmin/index.html",
     "main.6b4b069c.css.map": "/MantisOfficialAdmin/static/css/main.6b4b069c.css.map",
-    "main.94fcae12.js.map": "/MantisOfficialAdmin/static/js/main.94fcae12.js.map",
+    "main.122423f4.js.map": "/MantisOfficialAdmin/static/js/main.122423f4.js.map",
     "reactPlayerPreview.e73e22fb.chunk.js.map": "/MantisOfficialAdmin/static/js/reactPlayerPreview.e73e22fb.chunk.js.map",
     "453.1c13788b.chunk.js.map": "/MantisOfficialAdmin/static/js/453.1c13788b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b4b069c.css",
-    "static/js/main.94fcae12.js"
+    "static/js/main.122423f4.js"
   ]
 }
