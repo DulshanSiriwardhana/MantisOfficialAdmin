@@ -6,8 +6,8 @@ const Navbar =()=>{
         <div className="navbarcontainer">
             <div className="navelementcontainer">
                 <ul>
-                    <li><a href="/">Articles</a></li>
-                    <li><a href="/messages">Messages</a></li>
+                    <li><a href="/MantisOfficialAdmin">Articles</a></li>
+                    <li><a href="/MantisOfficialAdmin/messages">Messages</a></li>
                 </ul>
             </div>
         </div>

@@ -4,6 +4,7 @@ import './messages.css'
 
 const Messages =()=>{
     const [messages, setMessages] =useState(null);
+    console.log("Success");
 
     useEffect(()=>{
         getMessages();

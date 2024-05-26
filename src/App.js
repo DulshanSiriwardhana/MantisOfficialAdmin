@@ -12,8 +12,8 @@ function App() {
         <Navbar/>
         <div className="routercontainer">
           <Routes>
-            <Route path='/' element={<Articles/>}/>
-            <Route path='/messages' element={<Messages/>}/>
+            <Route path='/MantisOfficialAdmin' element={<Articles/>}/>
+            <Route path='/MantisOfficialAdmin/messages' element={<Messages/>}/>
           </Routes>
         </div>
       </div>
