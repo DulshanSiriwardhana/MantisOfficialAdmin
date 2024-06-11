@@ -12,7 +12,7 @@ const Messages =()=>{
     },[]);
 
     const getMessages =async()=>{
-        const res = await axios.get('https://mantisofficialbackend.onrender.com/messages/');
+        const res = await axios.get(`${process.env.REACT_APP_SERVER}messages/`);
         setMessages(res.data);
     }
 
